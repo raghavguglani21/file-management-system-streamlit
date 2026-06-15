@@ -32,10 +32,9 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 
 
-## 📸 Project Screenshot
-
-![Dashboard](dashboard.png)
-```
+## Project Screenshot
+
+```![Dashboard](dashboard.png)
 
 ## Project Structure
 
