@@ -37,7 +37,7 @@ python -m streamlit run app.py
 
 ## Project Screenshot
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Project Structure
 
