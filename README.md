@@ -30,21 +30,22 @@ pip install -r requirements.txt
 
 ```bash
 python -m streamlit run app.py
-
+```
 
 ## Project Screenshot
-
-```![Dashboard](dashboard.png)
+
+![Dashboard](screenshots/dashboard.png)
 
 ## Project Structure
 
-```
+```text
 FileManagementSystem/
 │
 ├── app.py
 ├── requirements.txt
 ├── README.md
 └── screenshots/
+    └── dashboard.png
 ```
 
 ## Author
