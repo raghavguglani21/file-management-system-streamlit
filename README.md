@@ -47,8 +47,7 @@ FileManagementSystem/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-└── screenshots/
-    └── dashboard.png
+└── dashboard.png
 ```
 
 ## Author
